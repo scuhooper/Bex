@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Prominent Features
+## Character Actions
+One of the highlights of the project is the amount of things the player is able to do. Although there are a number of options, the character cannot break animations to begin things early.
 
-You can use the [editor on GitHub](https://github.com/scuhooper/Bex/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Jumping
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Dashing
 
-### Markdown
+### Attacking
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br />
+<hr>
 
-```markdown
-Syntax highlighted code block
+## Vending Machine Cans
 
-# Header 1
-## Header 2
-### Header 3
+<br />
+<hr>
 
-- Bulleted
-- List
+## Scrolling Menu Screen
 
-1. Numbered
-2. List
+<br />
+<hr>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scuhooper/Bex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Code Repository
+## [Bex Repo](https://github.com/scuhooper/Bex)
