@@ -15,13 +15,13 @@ In the game, the player has a ranged attack of shooting their plasma gun or can 
 <hr>
 
 ## C# Interface Classes
-This project involved several classes that share several similar functionalities, but each would need their own implementation. I consider using inheritance with virtual functions, but I wanted to make sure these functions were declared and had their own definitions. I deecided to make C# interfaces to handle these requirements. This allowed me to make a class inherit from an interface which requires the interface be implemented for the code to compile. By making the files have descriptive adjective names, it flows logically when anyone else would go to implement or inspect the code.
+This project involved several classes that share several similar functionalities, but each would need their own implementation. I consider using inheritance with virtual functions, but I wanted to make sure these functions were declared and had their own definitions. I decided to make C# interfaces to handle these requirements. This allowed me to make a class inherit from an interface which requires the interface be implemented for the code to compile. By making the files have descriptive adjective names, it flows logically when anyone else would go to implement or inspect the code.
 
 <br />
 <hr>
 
 ## Scrolling Menu Screen
-The title screen for _Bex_ is actually done as a few simple methods hacked together. The sprites for the forklift and Bex, the main character, are just animations on a constant loop. The background is actually being moved each frame with a math function that allows for a number to be always be between zero and a specified value using the modulo operator. As the scene moves, a coroutine causing the screen to gradually fade to black. After the scene resets to the beginning point, the black overlay is made clear again.
+The title screen for _Bex_ is actually done as a few simple methods hacked together. The sprites for the forklift and Bex, the main character, are just animations on a constant loop. The background is being moved each frame with a math function that allows for a number to be always be between zero and a specified value using the modulo operator. As the scene moves, a coroutine causing the screen to gradually fade to black. After the scene resets to the beginning point, the black overlay is made clear again.
 
 <br />
 <hr>
