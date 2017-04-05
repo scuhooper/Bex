@@ -1,3 +1,9 @@
+# Video Highlight
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0feFNBVT_gU" frameborder="0" allowfullscreen></iframe> 
+
+<br />
+<hr>
+
 # Prominent Features
 ## Character Actions
 One of the highlights of the project is the amount of things the player is able to do. Although there are a number of options, the character cannot break animations to begin things early.
